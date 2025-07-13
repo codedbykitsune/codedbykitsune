@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/codedbykitsune/codedbykitsune/main/banner.png)
+<img src="https://raw.githubusercontent.com/codedbykitsune/codedbykitsune/main/banner.jpg" alt="Banner" width="100%" />
 
 # 🦊 Mira | `@codedbykitsune`
 
