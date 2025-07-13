@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/codedbykitsune/codedbykitsune/main/bannerk.jpg" alt="Banner" width="100%" />
+
 # 🦊 Mira | `@codedbykitsune`
 
 Hi there! I'm Mira — a professional translator and currently a data steward at Veeva, navigating my way into the world of software development.
