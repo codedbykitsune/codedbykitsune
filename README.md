@@ -2,60 +2,53 @@
 
 # 🦊 Mira | `@codedbykitsune`
 
-Hi there! I'm Mira — a professional translator and currently a data steward at Veeva, navigating my way into the world of software development.
-
-I'm learning programming from the ground up, currently focused on **C#** and **Object-Oriented Programming**, and will be diving into **Python**, **AI**, and **Data Science** in the coming months at **Siliconmade Academy**.
+Support Experience Guide at **bunq**, moving from foundations to real projects in software development. Currently building in C#/.NET and Python while deciding between **Backend** and **Mobile**.
 
 ---
 
 ## 🔨 Projects in Progress
 
-- `CarRentalSystem` – A C# console app built with OOP principles to simulate basic car rental operations.
-
-More projects to come as I learn new technologies!
-
+* **Orbit** — Life tracker in **.NET MAUI**. Tasks + finances + health. [Repo](https://github.com/codedbykitsune/orbit)
+  
 ---
 
-## 📚 Currently Learning
+## 📚 Now
 
-- 🧱 C# & OOP
-- 📌 Software development fundamentals
-
-## 🔜 Next Up
-
-- 🐍 Python
-- 🧠 AI & Data Science
-- ☁️ Possibly Backend or Game Dev (still exploring both!)
+* ✅ **Completed:** C# & OOP certificates (Siliconmade Academy, Jun–Aug 2025)
+* 🚧 **Ongoing:** Python projects; AI & Data Science modules
+* 🧭 **Exploring next:** Backend (.NET, ASP.NET Core, EF Core) **or** Mobile (.NET MAUI)
 
 ---
 
 ## 📆 Learning Timeline
 
-- 🟣 **June–August 2025**: C# and OOP at Siliconmade Academy
-- 🟡 **August 2025 onward**: Python, AI, and data science
-- 🔜 Still deciding between backend or game development
+* 🟣 **Jun–Aug 2025:** C# and OOP at Siliconmade Academy — **completed**
+* 🟡 **Aug 2025 →** Python and AI & Data Science — **in progress**
 
 ---
 
-## 💼 Background
+## 🏅 Certifications
 
-- 📍 Based in Beşiktaş, İstanbul
-- 🗂️ Working as a **Data Steward at Veeva**
-- 🌍 Professional translator (EN <-> TR)
-- 🎓 Learning full-time through hands-on training and projects
+* C# Fundamentals — Siliconmade Academy *(Aug 2025)*
+* OOP with C# — Siliconmade Academy *(Aug 2025)*
 
 ---
 
 ## 🧰 Languages & Tools
 
-`C#` `Visual Studio`
-
-(*more to come as I learn them*)
+`C#` `Python` `SQL` `\.NET` `.NET MAUI` `Git` `GitHub` `Visual Studio` `VS Code`  `Docker (basics)`
 
 ---
 
-## 💬 Let's Connect
+## 💼 Background
 
-I’m here to build, learn, and share.  
-If you’re into data, backend, games, or foxes — say hi!
+* 📍 Based in **Beşiktaş, İstanbul**
+* 🧑‍💻 **Support Experience Guide at bunq**
+* 🌍 Professional translator (EN ↔ TR)
+* 🎓 Learning through hands‑on projects while working
 
+---
+
+## 💬 Let’s Connect
+
+I’m here to build, learn, and share. If you’re into data, backend, mobile, or foxes — say hi!
