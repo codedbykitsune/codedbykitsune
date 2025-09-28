@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/codedbykitsune/codedbykitsune/main/bannerm.jpg" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/codedbykitsune/codedbykitsune/main/banner_no_bottom.png" alt="Banner" width="100%" />
 
 # 🦊 Mira | `@codedbykitsune`
 
