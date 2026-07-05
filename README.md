@@ -10,6 +10,22 @@ I build tools that make information easier to find, processes easier to follow, 
 
 ## 🔨 Current Projects
 
+### 💻 Backend Bootcamp Projects
+
+A public catalog of projects and exercises completed during the **Siliconmade Academy Backend Bootcamp**.
+
+The repository documents my learning progress across HTML, CSS, JavaScript, Git, GitHub, C#, ASP.NET Core, APIs, SQL, Entity Framework Core, and related backend development topics.
+
+* [View Project Catalog](https://github.com/codedbykitsune/backend-bootcamp-projects)
+
+### 🧠 Geek-O-Metre
+
+A responsive web-based mini quiz built with HTML, CSS, and JavaScript.
+
+* [Live Demo](https://codedbykitsune.github.io/geek-o-metre/)
+* [Source Code](https://github.com/codedbykitsune/geek-o-metre)
+
+
 ### 📚 Obsidian Community Projects
 
 Building tools for tabletop RPG communities:
