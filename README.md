@@ -76,10 +76,18 @@ Private n8n automations for:
 * Entity Framework Core
 * SQL
 * REST APIs
+* Backend architecture and application development
+
+### 🧪 Applying in Projects
+
 * HTML
 * CSS
 * JavaScript
-* Git & GitHub
+* Git
+* GitHub
+* Responsive web design
+* DOM manipulation
+* Client-side application logic
 
 ### 🧭 Exploring
 
@@ -101,15 +109,15 @@ Private n8n automations for:
 
 ### Languages
 
-`C#` `Python` `JavaScript (basic)`
+`C#` `Python` `JavaScript`
 
 ### Web
 
-`HTML` `CSS`
+`HTML` `CSS` `Responsive Design` `GitHub Pages`
 
 ### Development
 
-`Git` `GitHub`
+`Git` `GitHub` `GitHub Pages`
 `Visual Studio` `VS Code`
 
 ### Automation & Productivity
