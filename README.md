@@ -22,7 +22,7 @@ The repository documents my learning progress across HTML, CSS, JavaScript, Git,
 
 A responsive web-based mini quiz built with HTML, CSS, and JavaScript.
 
-* [Live Demo](https://codedbykitsune.github.io/geek-o-metre/)
+* [Live Demo](https://codedbykitsune.github.io/geek-o-metre.github.io/)
 * [Source Code](https://github.com/codedbykitsune/geek-o-metre)
 
 
