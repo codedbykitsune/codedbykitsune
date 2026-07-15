@@ -14,7 +14,7 @@ I build tools that make information easier to find, processes easier to follow, 
 
 A public catalog of projects and exercises completed during the **Siliconmade Academy Backend Bootcamp**.
 
-The repository documents my learning progress across HTML, CSS, JavaScript, Git, GitHub, C#, ASP.NET Core, APIs, SQL, Entity Framework Core, and related backend development topics.
+The repository documents my learning progress across HTML, CSS, JavaScript, Git, GitHub, C#, ASP.NET Core, REST APIs, SQL, Entity Framework Core, and related backend development topics.
 
 * [View Project Catalog](https://github.com/codedbykitsune/backend-bootcamp-projects)
 
@@ -23,8 +23,14 @@ The repository documents my learning progress across HTML, CSS, JavaScript, Git,
 A responsive web-based mini quiz built with HTML, CSS, and JavaScript.
 
 * [Live Demo](https://codedbykitsune.github.io/geek-o-metre.github.io/)
-* [Source Code](https://github.com/codedbykitsune/geek-o-metre)
+* [Source Code](https://github.com/codedbykitsune/geek-o-metre.github.io)
 
+### 🧛 Draculist
+
+A Dracula-themed responsive product catalog built with Bootstrap and JavaScript.
+
+* [Live Demo](https://codedbykitsune.github.io/draculist/)
+* [Source Code](https://github.com/codedbykitsune/draculist)
 
 ### 📚 Obsidian Community Projects
 
@@ -64,11 +70,6 @@ Private n8n automations for:
 
 ## 📚 Learning Journey
 
-### ✅ Completed
-
-* C# Fundamentals
-* Object-Oriented Programming with C#
-
 ### 🚧 Currently Learning
 
 * .NET
@@ -76,6 +77,7 @@ Private n8n automations for:
 * Entity Framework Core
 * SQL
 * REST APIs
+* Git
 * Backend architecture and application development
 
 ### 🧪 Applying in Projects
@@ -83,18 +85,13 @@ Private n8n automations for:
 * HTML
 * CSS
 * JavaScript
-* Git
-* GitHub
+* Bootstrap
 * Responsive web design
 * DOM manipulation
 * Client-side application logic
-
-### 🧭 Exploring
-
-* Workflow Automation (n8n)
-* Google Apps Script
-* AI-assisted productivity systems
-* Obsidian plugin development
+* Fetch API
+* GitHub
+* GitHub Pages
 
 ---
 
@@ -113,26 +110,19 @@ Private n8n automations for:
 
 ### Web
 
-`HTML` `CSS` `Responsive Design` `GitHub Pages`
+`HTML` `CSS` `Bootstrap` `Fetch API` `Responsive Design` `GitHub Pages`
 
 ### Development
 
-`Git` `GitHub` `GitHub Pages`
-`Visual Studio` `VS Code`
+`Git` `GitHub` `Visual Studio` `VS Code`
 
 ### Automation & Productivity
 
-`n8n`
-`Google Apps Script`
-`Obsidian`
+`n8n` `Google Apps Script` `Obsidian`
 
 ### AI & Knowledge Systems
 
-`Prompt Engineering`
-`Agent Workflows`
-`Knowledge Bases`
-`Documentation Design`
-`Markdown`
+`Prompt Engineering` `Agent Workflows` `Knowledge Bases` `Documentation Design` `Markdown`
 
 ---
 
