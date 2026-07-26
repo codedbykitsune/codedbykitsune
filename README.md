@@ -32,6 +32,14 @@ A Dracula-themed responsive product catalog built with Bootstrap and JavaScript.
 * [Live Demo](https://codedbykitsune.github.io/draculist/)
 * [Source Code](https://github.com/codedbykitsune/draculist)
 
+### 🗝️ CurioVaultAPI
+
+An ASP.NET Core Web API for managing a collection of products through RESTful CRUD operations.
+
+The API includes endpoints for retrieving, creating, updating, and deleting products, with basic business rules such as duplicate-name prevention and automatic ID assignment.
+
+* [Source Code](https://github.com/codedbykitsune/CurioVaultAPI)
+
 ### 📚 Obsidian Community Projects
 
 Building tools for tabletop RPG communities:
@@ -72,16 +80,27 @@ Private n8n automations for:
 
 ### 🚧 Currently Learning
 
-* .NET
-* ASP.NET Core
 * Entity Framework Core
 * SQL
-* REST APIs
-* Git
-* Backend architecture and application development
+* Relational database design
+* Dependency injection
+* Data transfer objects
+* Validation and error handling
+* Backend architecture
+* Application development with .NET
 
 ### 🧪 Applying in Projects
 
+* C#
+* .NET
+* ASP.NET Core
+* REST APIs
+* API controllers and routing
+* CRUD operations
+* OpenAPI
+* Scalar
+* Git
+* GitHub
 * HTML
 * CSS
 * JavaScript
@@ -90,7 +109,6 @@ Private n8n automations for:
 * DOM manipulation
 * Client-side application logic
 * Fetch API
-* GitHub
 * GitHub Pages
 
 ---
@@ -107,6 +125,10 @@ Private n8n automations for:
 ### Languages
 
 `C#` `Python` `JavaScript`
+
+### Backend
+
+`.NET` `ASP.NET Core` `REST APIs` `OpenAPI` `Scalar` `Entity Framework Core`
 
 ### Web
 
